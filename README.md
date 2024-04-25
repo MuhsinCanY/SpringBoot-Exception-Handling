@@ -1,5 +1,7 @@
-SpirngBoot Exception Handling
+## SpirngBoot Exception Handling
 
--Custom Exception
--Global Exception Handling
--Validation
+- Custom Exception and Exception Response
+
+- Global Exception Handling
+
+- Validation
